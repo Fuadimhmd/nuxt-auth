@@ -1,0 +1,16 @@
+[
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "C:\\\\Users\\\\Rico Ardianto\\\\Documents\\\\nuxt-auth\\\\pages\\\\auth\\\\login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_26952e4f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Rico Ardianto\\\\Documents\\\\nuxt-auth\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_44e9e440"
+  }
+]
